@@ -32,7 +32,7 @@ export default function Home() {
                 <Package className="h-16 w-16 mb-4 text-blue-600" />
                 <h2 className="text-2xl font-bold text-center">Materials Management</h2>
                 <p className="text-center mt-2 text-muted-foreground">
-                  Track, manage, and monitor construction materials
+                  Search, add, and edit cost of construction materials
                 </p>
               </CardContent>
             </Card>
